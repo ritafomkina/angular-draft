@@ -7,7 +7,6 @@ import { environment } from '@env/environment';
 import { EffectsModule } from '@ngrx/effects';
 import { StoreModule } from '@ngrx/store';
 import { StoreDevtoolsModule } from '@ngrx/store-devtools';
-import { FrameModule } from '@shared/frame/frame.module';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -21,7 +20,6 @@ export class ConfigVars {
   imports: [
     AppRoutingModule,
     BrowserAnimationsModule,
-    FrameModule,
     StoreModule.forRoot(),
     EffectsModule.forRoot(),
     StoreDevtoolsModule.instrument({
