@@ -1,6 +1,6 @@
 {
-  "short_name": "Angular 16",
-  "name": "Angular 16 Project Bootstrap",
+  "short_name": "Angular 17",
+  "name": "Angular 17 Project Bootstrap",
   "icons": [
     {
       "src": "/favicon.png",
@@ -9,8 +9,10 @@
     }
   ],
   "start_url": "/?utm_source=launcher",
+  "description": "Angular 17 Project Bootstrap",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#1a8cff",
+  "background_color": "#12120A",
+  "categories": ["entertainment", "personalization", "productivity", "utilities"],
   "theme_color": "#1a8cff"
 }
