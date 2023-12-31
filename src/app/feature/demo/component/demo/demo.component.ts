@@ -48,6 +48,7 @@ export class DemoComponent {
   private simpleCallItem = {
     api: 'https://jsonplaceholder.typicode.com/',
     path: 'users#1',
+    needsAuth: true,
   };
 
   constructor(

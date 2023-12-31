@@ -50,3 +50,7 @@ select:-webkit-autofill:focus {
   -webkit-text-fill-color: black;
   transition: background-color $autofill-transition-speed ease-in-out $autofill-transition-speed !important;
 }
+
+.mat-mdc-icon-button.mat-mdc-button-base {
+  display: flex;
+}

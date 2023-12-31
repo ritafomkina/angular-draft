@@ -8,6 +8,8 @@ import { EffectsModule } from '@ngrx/effects';
 import { StoreModule } from '@ngrx/store';
 import { StoreDevtoolsModule } from '@ngrx/store-devtools';
 
+import { ApiConnector } from '@deejayy/api-caller';
+import { CustomApiConnector } from '@shared/service/custom-api-connector.service';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
@@ -39,7 +41,7 @@ export class ConfigVars {
       },
     ]),
   ],
-  providers: [],
+  providers: [{ provide: ApiConnector, useClass: CustomApiConnector }],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
