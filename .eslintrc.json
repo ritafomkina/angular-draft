@@ -74,7 +74,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "app",
+            "prefix": "lt",
             "style": "camelCase"
           }
         ],
@@ -82,7 +82,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "app",
+            "prefix": "lt",
             "style": "kebab-case"
           }
         ],

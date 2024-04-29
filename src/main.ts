@@ -1,11 +1,17 @@
-/// <reference types="@angular/localize" />
+import { enableProdMode } from '@angular/core';
+import { bootstrapApplication } from '@angular/platform-browser';
 
-import '@angular/localize/init';
+import { environment } from './environments/environment';
+import { RootComponent } from './root/root.component';
+import { rootConfig } from './root/root.config';
 
-import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+if (environment.production) {
+    enableProdMode();
+}
 
-import { AppModule } from './app/app.module';
-
-platformBrowserDynamic()
-  .bootstrapModule(AppModule)
-  .catch((err) => console.error(err));
+/**
+ * Schedule app bootstrap to reduce Total Blocking Time (TTB)
+ */
+setTimeout(async () =>
+    bootstrapApplication(RootComponent, rootConfig).catch((err) => console.error(err)),
+);

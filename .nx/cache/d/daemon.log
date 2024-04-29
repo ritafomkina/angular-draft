@@ -1,0 +1,2346 @@
+[NX Daemon Server] - 2024-04-29T08:08:47.318Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T08:08:47.324Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T08:08:47.330Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:08:47.331Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:08:47.331Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:08:47.334Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:08:47.335Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:08:47.335Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:08:47.335Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:08:47.603Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:08:47.607Z - Time taken for 'total for creating and serializing project graph' 268.91966676712036ms
+[NX Daemon Server] - 2024-04-29T08:08:47.626Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:08:47.626Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 269. Response time: 23.
+[NX Daemon Server] - 2024-04-29T08:08:47.656Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:08:47.656Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:08:47.659Z - Time taken for 'total for creating and serializing project graph' 0.3149580955505371ms
+[NX Daemon Server] - 2024-04-29T08:08:47.665Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:08:47.665Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 9.
+[NX Daemon Server] - 2024-04-29T08:08:47.675Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:10:18.529Z - [WATCHER]: src/index.html was modified
+[NX Daemon Server] - 2024-04-29T08:10:18.531Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:10:18.531Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:10:18.531Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:10:18.531Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:10:18.531Z - Time taken for 'changed-projects' 0.0815420150756836ms
+[NX Daemon Server] - 2024-04-29T08:10:18.633Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:10:18.633Z - [REQUEST]: src/index.html
+[NX Daemon Server] - 2024-04-29T08:10:18.633Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:10:18.678Z - Time taken for 'hash changed files from watcher' 1.8202500343322754ms
+[NX Daemon Server] - 2024-04-29T08:14:44.015Z - [WATCHER]: .nx/cache/d/server-process.json was deleted
+[NX Daemon Server] - 2024-04-29T08:14:44.022Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:14:44.026Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:14:44.026Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2024-04-29T08:14:44.027Z - Time taken for 'changed-projects' 1.2341666221618652ms
+[NX Daemon Server] - 2024-04-29T08:14:44.029Z - [WATCHER]: Stopping the watcher for /Users/ritakisil/Desktop/work/lt-chat (sources)
+[NX Daemon Server] - 2024-04-29T08:14:44.032Z - [WATCHER]: Stopping the watcher for /Users/ritakisil/Desktop/work/lt-chat (outputs)
+[NX Daemon Server] - 2024-04-29T08:14:44.033Z - Server stopped because: "this process is no longer the current daemon (native)"
+[NX Daemon Server] - 2024-04-29T08:14:44.845Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T08:14:44.851Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T08:14:44.854Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:14:44.855Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:14:44.856Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:14:44.858Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:14:44.859Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:14:44.859Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:14:44.859Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:14:45.038Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:14:45.040Z - Time taken for 'total for creating and serializing project graph' 179.764666557312ms
+[NX Daemon Server] - 2024-04-29T08:14:45.049Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:14:45.049Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 180. Response time: 11.
+[NX Daemon Server] - 2024-04-29T08:14:45.065Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:14:45.065Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:14:45.067Z - Time taken for 'total for creating and serializing project graph' 0.14870786666870117ms
+[NX Daemon Server] - 2024-04-29T08:14:45.073Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:14:45.073Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 8.
+[NX Daemon Server] - 2024-04-29T08:14:45.080Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:17:15.103Z - [WATCHER]: Processing file changes in outputs
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+[NX Daemon Server] - 2024-04-29T08:17:58.259Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:17:58.262Z - [WATCHER]: package-lock.json was modified
+[NX Daemon Server] - 2024-04-29T08:17:58.263Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:17:58.263Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:17:58.263Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:17:58.263Z - Time taken for 'changed-projects' 0.0979161262512207ms
+[NX Daemon Server] - 2024-04-29T08:17:58.364Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:17:58.365Z - [REQUEST]: package-lock.json
+[NX Daemon Server] - 2024-04-29T08:17:58.365Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:17:58.412Z - Time taken for 'hash changed files from watcher' 1.4405407905578613ms
+[NX Daemon Server] - 2024-04-29T08:34:19.577Z - [WATCHER]: tsconfig.app.json was modified
+[NX Daemon Server] - 2024-04-29T08:34:19.580Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:34:19.580Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:34:19.580Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T08:34:19.580Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:34:19.580Z - Time taken for 'changed-projects' 0.9557924270629883ms
+[NX Daemon Server] - 2024-04-29T08:34:19.782Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:34:19.782Z - [REQUEST]: tsconfig.app.json
+[NX Daemon Server] - 2024-04-29T08:34:19.782Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:34:19.852Z - Time taken for 'hash changed files from watcher' 2.1373748779296875ms
+[NX Daemon Server] - 2024-04-29T08:34:23.078Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2024-04-29T08:34:23.078Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:34:23.079Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:34:23.079Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T08:34:23.079Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:34:23.079Z - Time taken for 'changed-projects' 0.075958251953125ms
+[NX Daemon Server] - 2024-04-29T08:34:23.484Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:34:23.484Z - [REQUEST]: tsconfig.json
+[NX Daemon Server] - 2024-04-29T08:34:23.484Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:34:23.526Z - Time taken for 'hash changed files from watcher' 0.2896251678466797ms
+[NX Daemon Server] - 2024-04-29T08:38:20.664Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2024-04-29T08:38:20.665Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:38:20.665Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:38:20.665Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:38:20.665Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:38:20.666Z - Time taken for 'changed-projects' 0.0755000114440918ms
+[NX Daemon Server] - 2024-04-29T08:38:21.466Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:38:21.467Z - [REQUEST]: tsconfig.json
+[NX Daemon Server] - 2024-04-29T08:38:21.467Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:38:21.533Z - Time taken for 'hash changed files from watcher' 0.2908749580383301ms
+[NX Daemon Server] - 2024-04-29T08:38:39.891Z - [WATCHER]: .hintrc was deleted
+[NX Daemon Server] - 2024-04-29T08:38:39.898Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:38:39.898Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:38:39.898Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:38:39.898Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:38:39.898Z - Time taken for 'changed-projects' 2.276334285736084ms
+[NX Daemon Server] - 2024-04-29T08:38:41.509Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:38:41.540Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:38:41.540Z - [REQUEST]: .hintrc
+[NX Daemon Server] - 2024-04-29T08:38:41.888Z - Time taken for 'hash changed files from watcher' 7.7452497482299805ms
+[NX Daemon Server] - 2024-04-29T08:39:35.330Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:39:35.343Z - [WATCHER]: .vscode was deleted
+[NX Daemon Server] - 2024-04-29T08:39:35.345Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:39:35.346Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:39:35.346Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T08:39:35.347Z - Time taken for 'changed-projects' 1.2481250762939453ms
+[NX Daemon Server] - 2024-04-29T08:39:38.547Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:39:38.548Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:39:38.548Z - [REQUEST]: .vscode
+[NX Daemon Server] - 2024-04-29T08:39:38.623Z - Time taken for 'hash changed files from watcher' 0.8187079429626465ms
+[NX Daemon Server] - 2024-04-29T08:40:07.163Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:40:07.166Z - [WATCHER]: git-hooks was deleted
+[NX Daemon Server] - 2024-04-29T08:40:07.166Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:40:07.166Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:40:07.166Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:40:07.166Z - Time taken for 'changed-projects' 0.08849954605102539ms
+[NX Daemon Server] - 2024-04-29T08:40:13.570Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:40:13.571Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:40:13.571Z - [REQUEST]: git-hooks
+[NX Daemon Server] - 2024-04-29T08:40:13.647Z - Time taken for 'hash changed files from watcher' 0.7878327369689941ms
+[NX Daemon Server] - 2024-04-29T08:41:59.552Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:41:59.564Z - [WATCHER]: 0 file(s) created or restored, 3 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T08:41:59.565Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:41:59.566Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:41:59.566Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T08:41:59.566Z - Time taken for 'changed-projects' 0.35095787048339844ms
+[NX Daemon Server] - 2024-04-29T08:42:04.749Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T08:42:04.753Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T08:42:04.757Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:42:04.758Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:42:04.758Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:42:04.760Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:42:04.760Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:42:04.760Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:42:04.760Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:42:04.834Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:42:04.836Z - Time taken for 'total for creating and serializing project graph' 74.62774991989136ms
+[NX Daemon Server] - 2024-04-29T08:42:04.837Z - [WATCHER]: .nx/cache/d/server-process.json was created or restored
+[NX Daemon Server] - 2024-04-29T08:42:04.864Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:42:04.864Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 75. Response time: 30.
+[NX Daemon Server] - 2024-04-29T08:42:04.877Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:42:04.877Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:42:04.877Z - [REQUEST]: .nx/cache/d/server-process.json
+[NX Daemon Server] - 2024-04-29T08:42:04.877Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:42:04.907Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:42:04.909Z - Time taken for 'total for creating and serializing project graph' 30.3917498588562ms
+[NX Daemon Server] - 2024-04-29T08:42:04.910Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:42:04.910Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 30. Response time: 3.
+[NX Daemon Server] - 2024-04-29T08:42:04.922Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:42:05.421Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:42:05.421Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-29T08:55:48.051Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:55:48.071Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:55:48.074Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T08:55:48.087Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:55:48.088Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:55:48.096Z - Time taken for 'total for creating and serializing project graph' 0.848207950592041ms
+[NX Daemon Server] - 2024-04-29T08:55:48.102Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:55:48.102Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 14.
+[NX Daemon Server] - 2024-04-29T08:55:48.109Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T08:55:48.109Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T08:55:48.116Z - Time taken for 'total for creating and serializing project graph' 0.4662919044494629ms
+[NX Daemon Server] - 2024-04-29T08:55:48.118Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T08:55:48.118Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 9.
+[NX Daemon Server] - 2024-04-29T08:55:48.123Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T08:56:41.455Z - [WATCHER]: src/environments/environment.prod.ts was modified
+[NX Daemon Server] - 2024-04-29T08:56:41.458Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:56:41.459Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:56:41.459Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T08:56:41.459Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:56:41.459Z - Time taken for 'changed-projects' 0.058042049407958984ms
+[NX Daemon Server] - 2024-04-29T08:56:41.559Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:56:41.559Z - [REQUEST]: src/environments/environment.prod.ts
+[NX Daemon Server] - 2024-04-29T08:56:41.559Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:56:41.613Z - Time taken for 'hash changed files from watcher' 0.6987500190734863ms
+[NX Daemon Server] - 2024-04-29T08:56:48.381Z - [WATCHER]: src/environments/environment.ts was modified
+[NX Daemon Server] - 2024-04-29T08:56:48.382Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:56:48.382Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:56:48.382Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:56:48.382Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:56:48.382Z - Time taken for 'changed-projects' 0.05299997329711914ms
+[NX Daemon Server] - 2024-04-29T08:56:48.582Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:56:48.582Z - [REQUEST]: src/environments/environment.ts
+[NX Daemon Server] - 2024-04-29T08:56:48.582Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:56:48.627Z - Time taken for 'hash changed files from watcher' 0.3200831413269043ms
+[NX Daemon Server] - 2024-04-29T08:59:38.301Z - [WATCHER]: README.md was modified
+[NX Daemon Server] - 2024-04-29T08:59:38.306Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T08:59:38.306Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T08:59:38.306Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T08:59:38.306Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T08:59:38.307Z - Time taken for 'changed-projects' 0.6790423393249512ms
+[NX Daemon Server] - 2024-04-29T08:59:38.706Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T08:59:38.706Z - [REQUEST]: README.md
+[NX Daemon Server] - 2024-04-29T08:59:38.706Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T08:59:38.771Z - Time taken for 'hash changed files from watcher' 0.27083301544189453ms
+[NX Daemon Server] - 2024-04-29T09:01:34.221Z - [WATCHER]: src/index.html was modified
+[NX Daemon Server] - 2024-04-29T09:01:34.222Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:01:34.222Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:01:34.222Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:01:34.222Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:01:34.223Z - Time taken for 'changed-projects' 0.0494999885559082ms
+[NX Daemon Server] - 2024-04-29T09:01:35.023Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:01:35.023Z - [REQUEST]: src/index.html
+[NX Daemon Server] - 2024-04-29T09:01:35.023Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:01:35.082Z - Time taken for 'hash changed files from watcher' 0.31337499618530273ms
+[NX Daemon Server] - 2024-04-29T09:02:12.457Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:02:12.457Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:02:12.559Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:02:12.559Z - [REQUEST]: src/app/start/start.component.scss,src/app/start/start.component.ts,src/app/start/start.component.spec.ts,src/app/start/start.component.html
+[NX Daemon Server] - 2024-04-29T09:02:12.559Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:02:12.596Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:02:12.596Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:02:12.597Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:02:12.597Z - Time taken for 'hash changed files from watcher' 0.4702920913696289ms
+[NX Daemon Server] - 2024-04-29T09:14:16.297Z - [WATCHER]: src/polyfills.ts was created or restored
+[NX Daemon Server] - 2024-04-29T09:14:16.308Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:14:16.413Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:14:16.413Z - [REQUEST]: src/polyfills.ts
+[NX Daemon Server] - 2024-04-29T09:14:16.413Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:14:16.864Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:14:16.865Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:14:16.865Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:14:16.865Z - Time taken for 'hash changed files from watcher' 6.056082725524902ms
+[NX Daemon Server] - 2024-04-29T09:14:19.423Z - [WATCHER]: src/polyfills.ts was modified
+[NX Daemon Server] - 2024-04-29T09:14:19.423Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:14:19.423Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:14:19.423Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:14:19.424Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:14:19.424Z - Time taken for 'changed-projects' 0.04608297348022461ms
+[NX Daemon Server] - 2024-04-29T09:14:19.625Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:14:19.625Z - [REQUEST]: src/polyfills.ts
+[NX Daemon Server] - 2024-04-29T09:14:19.625Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:14:19.671Z - Time taken for 'hash changed files from watcher' 1.4844584465026855ms
+[NX Daemon Server] - 2024-04-29T09:15:02.594Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:15:02.597Z - [WATCHER]: tsconfig.app.json was modified
+[NX Daemon Server] - 2024-04-29T09:15:02.597Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:15:02.597Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:15:02.597Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:15:02.598Z - Time taken for 'changed-projects' 0.06270933151245117ms
+[NX Daemon Server] - 2024-04-29T09:15:02.999Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:15:02.999Z - [REQUEST]: tsconfig.app.json
+[NX Daemon Server] - 2024-04-29T09:15:02.999Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:15:03.038Z - Time taken for 'hash changed files from watcher' 0.2657918930053711ms
+[NX Daemon Server] - 2024-04-29T09:15:36.187Z - [WATCHER]: src/app/start was deleted
+[NX Daemon Server] - 2024-04-29T09:15:36.188Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:15:36.188Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:15:36.188Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:15:36.188Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:15:36.188Z - Time taken for 'changed-projects' 0.36933279037475586ms
+[NX Daemon Server] - 2024-04-29T09:15:36.991Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:15:36.991Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:15:36.991Z - [REQUEST]: src/app/start
+[NX Daemon Server] - 2024-04-29T09:15:37.038Z - Time taken for 'hash changed files from watcher' 1.064000129699707ms
+[NX Daemon Server] - 2024-04-29T09:15:47.693Z - [WATCHER]: src/app was deleted
+[NX Daemon Server] - 2024-04-29T09:15:47.695Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:15:47.695Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:15:47.695Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:15:47.695Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:15:47.695Z - Time taken for 'changed-projects' 0.33750009536743164ms
+[NX Daemon Server] - 2024-04-29T09:15:49.297Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:15:49.298Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:15:49.298Z - [REQUEST]: src/app
+[NX Daemon Server] - 2024-04-29T09:15:49.336Z - Time taken for 'hash changed files from watcher' 1.9020838737487793ms
+[NX Daemon Server] - 2024-04-29T09:16:17.867Z - [WATCHER]: src/styles.scss was deleted
+[NX Daemon Server] - 2024-04-29T09:16:17.868Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:16:17.868Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:16:17.868Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:16:17.868Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:16:17.868Z - Time taken for 'changed-projects' 0.0917501449584961ms
+[NX Daemon Server] - 2024-04-29T09:16:21.071Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:16:21.071Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:16:21.071Z - [REQUEST]: src/styles.scss
+[NX Daemon Server] - 2024-04-29T09:16:21.116Z - Time taken for 'hash changed files from watcher' 0.7418332099914551ms
+[NX Daemon Server] - 2024-04-29T09:20:07.716Z - [WATCHER]: src/index.html was modified
+[NX Daemon Server] - 2024-04-29T09:20:07.719Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:20:07.719Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:20:07.719Z - Handled FILE-WATCH-CHANGED. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:20:07.719Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:20:07.719Z - Time taken for 'changed-projects' 0.3816666603088379ms
+[NX Daemon Server] - 2024-04-29T09:20:14.122Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:20:14.122Z - [REQUEST]: src/index.html
+[NX Daemon Server] - 2024-04-29T09:20:14.123Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:20:14.194Z - Time taken for 'hash changed files from watcher' 1.2137908935546875ms
+[NX Daemon Server] - 2024-04-29T09:25:18.726Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:25:18.730Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-04-29T09:25:18.732Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:25:18.733Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:25:18.733Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:25:18.733Z - Time taken for 'changed-projects' 0.3286247253417969ms
+[NX Daemon Server] - 2024-04-29T09:25:25.135Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:25:25.136Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-04-29T09:25:25.136Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:25:25.181Z - Time taken for 'hash changed files from watcher' 2.4517083168029785ms
+[NX Daemon Server] - 2024-04-29T09:25:27.142Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:25:27.143Z - [WATCHER]: Stopping the watcher for /Users/ritakisil/Desktop/work/lt-chat (sources)
+[NX Daemon Server] - 2024-04-29T09:25:27.143Z - [WATCHER]: Stopping the watcher for /Users/ritakisil/Desktop/work/lt-chat (outputs)
+[NX Daemon Server] - 2024-04-29T09:25:27.143Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-04-29T09:25:28.102Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T09:25:28.107Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T09:25:28.107Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:25:28.108Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:25:28.109Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:25:28.109Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:25:28.109Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:25:28.109Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:25:28.175Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:25:28.175Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:25:28.175Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 66. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:25:28.175Z - Time taken for 'total for creating and serializing project graph' 66.12662506103516ms
+[NX Daemon Server] - 2024-04-29T09:25:28.175Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:25:28.176Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:25:28.176Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:25:28.176Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:25:28.176Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:25:28.176Z - Time taken for 'total for creating and serializing project graph' 0.14516687393188477ms
+[NX Daemon Server] - 2024-04-29T09:25:28.176Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:25:33.273Z - [WATCHER]: Processing file changes in outputs
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a full channel
+
+[NX Daemon Server] - 2024-04-29T09:26:59.795Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:26:59.796Z - [WATCHER]: Stopping the watcher for /Users/ritakisil/Desktop/work/lt-chat (sources)
+[NX Daemon Server] - 2024-04-29T09:26:59.796Z - [WATCHER]: Stopping the watcher for /Users/ritakisil/Desktop/work/lt-chat (outputs)
+[NX Daemon Server] - 2024-04-29T09:26:59.796Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-04-29T09:34:04.234Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T09:34:04.239Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T09:34:04.245Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:34:04.245Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:34:04.246Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:34:04.247Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:34:04.292Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:34:04.292Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:34:04.292Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:34:04.371Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:34:04.372Z - Time taken for 'total for creating and serializing project graph' 123.84812498092651ms
+[NX Daemon Server] - 2024-04-29T09:34:04.380Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:34:04.380Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 124. Response time: 9.
+[NX Daemon Server] - 2024-04-29T09:34:04.383Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:34:04.384Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:34:04.386Z - Time taken for 'total for creating and serializing project graph' 0.8151249885559082ms
+[NX Daemon Server] - 2024-04-29T09:34:04.387Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:34:04.387Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-04-29T09:34:04.393Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:34:45.574Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:34:45.575Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:34:45.678Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:34:45.679Z - [REQUEST]: src/app/start/start.component.ts,src/app/start/start.component.html
+[NX Daemon Server] - 2024-04-29T09:34:45.679Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:34:45.711Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:34:45.711Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:34:45.711Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:34:45.711Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.586540699005127ms
+[NX Daemon Server] - 2024-04-29T09:35:23.616Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:35:23.618Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:23.618Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:23.618Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:35:23.618Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:35:23.618Z - Time taken for 'changed-projects' 0.13570833206176758ms
+[NX Daemon Server] - 2024-04-29T09:35:23.821Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:35:23.821Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:35:23.821Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:35:23.858Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5450420379638672ms
+[NX Daemon Server] - 2024-04-29T09:35:33.377Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:35:33.380Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:35:33.380Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:33.380Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:33.380Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:35:33.380Z - Time taken for 'changed-projects' 0.0755000114440918ms
+[NX Daemon Server] - 2024-04-29T09:35:33.782Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:35:33.782Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:35:33.782Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:35:33.811Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.4023747444152832ms
+[NX Daemon Server] - 2024-04-29T09:35:42.626Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:35:42.626Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:42.626Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:42.626Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:35:42.626Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:35:42.627Z - Time taken for 'changed-projects' 0.09470891952514648ms
+[NX Daemon Server] - 2024-04-29T09:35:43.429Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:35:43.429Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:35:43.429Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:35:43.456Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.38591718673706055ms
+[NX Daemon Server] - 2024-04-29T09:35:54.315Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:35:54.316Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:54.316Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:35:54.316Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:35:54.316Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:35:54.316Z - Time taken for 'changed-projects' 0.0943751335144043ms
+[NX Daemon Server] - 2024-04-29T09:35:55.919Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:35:55.919Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:35:55.919Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:35:55.949Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.44037485122680664ms
+[NX Daemon Server] - 2024-04-29T09:36:05.970Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-04-29T09:36:05.970Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:36:05.971Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:36:05.971Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:36:05.971Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:36:05.971Z - Time taken for 'changed-projects' 0.09833288192749023ms
+[NX Daemon Server] - 2024-04-29T09:36:09.126Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T09:36:09.130Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T09:36:09.131Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:36:09.132Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:36:09.134Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:36:09.192Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:36:09.193Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:36:09.193Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:36:09.292Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:36:09.297Z - Time taken for 'total for creating and serializing project graph' 157.8663330078125ms
+[NX Daemon Server] - 2024-04-29T09:36:09.299Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:36:09.310Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:36:09.310Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 158. Response time: 18.
+[NX Daemon Server] - 2024-04-29T09:36:09.347Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:36:09.348Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:36:09.350Z - Time taken for 'total for creating and serializing project graph' 1.8535418510437012ms
+[NX Daemon Server] - 2024-04-29T09:36:09.354Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:36:09.354Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 6.
+[NX Daemon Server] - 2024-04-29T09:36:09.364Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:36:10.010Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:39:34.567Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T09:39:34.569Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T09:39:34.570Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:39:34.571Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:39:34.574Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:39:34.612Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:39:34.613Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:39:34.613Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:39:34.689Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:39:34.692Z - Time taken for 'total for creating and serializing project graph' 115.22000026702881ms
+[NX Daemon Server] - 2024-04-29T09:39:34.692Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T09:39:34.694Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:39:34.694Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 116. Response time: 5.
+[NX Daemon Server] - 2024-04-29T09:39:34.700Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T09:39:34.701Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T09:39:34.703Z - Time taken for 'total for creating and serializing project graph' 1.2508330345153809ms
+[NX Daemon Server] - 2024-04-29T09:39:34.705Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T09:39:34.705Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 4.
+[NX Daemon Server] - 2024-04-29T09:39:34.710Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T09:40:06.253Z - [WATCHER]: tsconfig.json was modified
+[NX Daemon Server] - 2024-04-29T09:40:06.254Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:40:06.254Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:40:06.254Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:40:06.254Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:40:06.254Z - Time taken for 'changed-projects' 0.039083003997802734ms
+[NX Daemon Server] - 2024-04-29T09:40:06.356Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:40:06.356Z - [REQUEST]: tsconfig.json
+[NX Daemon Server] - 2024-04-29T09:40:06.356Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:40:06.387Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.358917236328125ms
+[NX Daemon Server] - 2024-04-29T09:40:21.571Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:40:21.572Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:40:21.572Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:40:21.572Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:40:21.572Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:40:21.572Z - Time taken for 'changed-projects' 0.06087493896484375ms
+[NX Daemon Server] - 2024-04-29T09:40:21.775Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:40:21.775Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:40:21.775Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:40:21.806Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.4640827178955078ms
+[NX Daemon Server] - 2024-04-29T09:43:54.537Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:43:54.540Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:43:54.541Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:43:54.541Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:43:54.541Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:43:54.541Z - Time taken for 'changed-projects' 0.3824582099914551ms
+[NX Daemon Server] - 2024-04-29T09:43:54.942Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:43:54.942Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:43:54.942Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:43:54.981Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.551417350769043ms
+[NX Daemon Server] - 2024-04-29T09:44:51.255Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:44:51.256Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:44:51.256Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:44:51.256Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:44:51.256Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:44:51.256Z - Time taken for 'changed-projects' 0.08733367919921875ms
+[NX Daemon Server] - 2024-04-29T09:44:52.059Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:44:52.059Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:44:52.059Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:44:52.098Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.4893336296081543ms
+[NX Daemon Server] - 2024-04-29T09:44:53.210Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:44:53.211Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:44:53.211Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:44:53.211Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:44:53.211Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:44:53.211Z - Time taken for 'changed-projects' 0.03754234313964844ms
+[NX Daemon Server] - 2024-04-29T09:44:54.814Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:44:54.814Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:44:54.815Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:44:54.842Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.45987510681152344ms
+[NX Daemon Server] - 2024-04-29T09:47:56.703Z - [WATCHER]: src/app was deleted
+[NX Daemon Server] - 2024-04-29T09:47:56.707Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:47:56.707Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:47:56.708Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:47:56.708Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:47:56.708Z - Time taken for 'changed-projects' 0.5847082138061523ms
+[NX Daemon Server] - 2024-04-29T09:47:59.912Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:47:59.912Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:47:59.912Z - [REQUEST]: src/app
+[NX Daemon Server] - 2024-04-29T09:47:59.997Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9039592742919922ms
+[NX Daemon Server] - 2024-04-29T09:48:02.673Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:48:02.673Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:48:02.776Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:48:02.776Z - [REQUEST]: src/app/start/start.component.html,src/app/start/start.component.ts
+[NX Daemon Server] - 2024-04-29T09:48:02.776Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:48:02.810Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:48:02.810Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:48:02.810Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:48:02.810Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5167498588562012ms
+[NX Daemon Server] - 2024-04-29T09:48:10.103Z - [WATCHER]: src/app was deleted
+[NX Daemon Server] - 2024-04-29T09:48:10.103Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:48:10.104Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:48:10.104Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T09:48:10.104Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:48:10.104Z - Time taken for 'changed-projects' 0.10866594314575195ms
+[NX Daemon Server] - 2024-04-29T09:48:10.306Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:48:10.306Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:48:10.306Z - [REQUEST]: src/app
+[NX Daemon Server] - 2024-04-29T09:48:10.344Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.35508298873901367ms
+[NX Daemon Server] - 2024-04-29T09:48:20.635Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T09:48:20.636Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:48:20.739Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:48:20.740Z - [REQUEST]: src/app/src/start/start/start.component.html,src/app/src/start/start/start.component.ts
+[NX Daemon Server] - 2024-04-29T09:48:20.740Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:48:20.772Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:48:20.772Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:48:20.772Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:48:20.772Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5818753242492676ms
+[NX Daemon Server] - 2024-04-29T09:57:42.780Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:57:42.787Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:57:42.787Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:57:42.787Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:57:42.788Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:57:42.788Z - Time taken for 'changed-projects' 1.2709589004516602ms
+[NX Daemon Server] - 2024-04-29T09:57:42.991Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:57:42.991Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:57:42.991Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:57:43.050Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.1735000610351562ms
+[NX Daemon Server] - 2024-04-29T09:57:50.912Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T09:57:50.913Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T09:57:50.913Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T09:57:50.913Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T09:57:50.914Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T09:57:50.914Z - Time taken for 'changed-projects' 0.147125244140625ms
+[NX Daemon Server] - 2024-04-29T09:57:51.316Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T09:57:51.316Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T09:57:51.316Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T09:57:51.362Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.36858272552490234ms
+[NX Daemon Server] - 2024-04-29T10:00:06.532Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-29T10:00:06.533Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:00:06.533Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:00:06.533Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:00:06.533Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:00:06.534Z - Time taken for 'changed-projects' 0.11674976348876953ms
+[NX Daemon Server] - 2024-04-29T10:00:07.337Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:00:07.337Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-29T10:00:07.337Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:00:07.390Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.7763328552246094ms
+[NX Daemon Server] - 2024-04-29T10:02:17.141Z - [WATCHER]: src/app/src/start/start was deleted
+[NX Daemon Server] - 2024-04-29T10:02:17.142Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:02:17.142Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:02:17.143Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T10:02:17.143Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:02:17.143Z - Time taken for 'changed-projects' 0.10316705703735352ms
+[NX Daemon Server] - 2024-04-29T10:02:18.745Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:02:18.745Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:02:18.745Z - [REQUEST]: src/app/src/start/start
+[NX Daemon Server] - 2024-04-29T10:02:18.783Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.36145925521850586ms
+[NX Daemon Server] - 2024-04-29T10:02:22.565Z - [WATCHER]: src/app was deleted
+[NX Daemon Server] - 2024-04-29T10:02:22.565Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:02:22.565Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:02:22.565Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:02:22.565Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:02:22.565Z - Time taken for 'changed-projects' 0.017833709716796875ms
+[NX Daemon Server] - 2024-04-29T10:02:25.767Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:02:25.768Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:02:25.768Z - [REQUEST]: src/app
+[NX Daemon Server] - 2024-04-29T10:02:25.795Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3442497253417969ms
+[NX Daemon Server] - 2024-04-29T10:03:25.103Z - [WATCHER]: src/start/feature/start-demo/start-demo.component.ts was created or restored
+[NX Daemon Server] - 2024-04-29T10:03:25.106Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:03:25.209Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:03:25.209Z - [REQUEST]: src/start/feature/start-demo/start-demo.component.ts
+[NX Daemon Server] - 2024-04-29T10:03:25.209Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:03:25.307Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:03:25.308Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:03:25.308Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T10:03:25.308Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.5517501831054688ms
+[NX Daemon Server] - 2024-04-29T10:04:08.215Z - [WATCHER]: 3 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-29T10:04:08.216Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:04:08.319Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:04:08.319Z - [REQUEST]: src/app/src/start/start/start.component.ts,src/app/src/start/start/start.component.scss,src/app/src/start/start/start.component.html
+[NX Daemon Server] - 2024-04-29T10:04:08.319Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:04:08.363Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:04:08.363Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:04:08.363Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:04:08.363Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8092918395996094ms
+[NX Daemon Server] - 2024-04-29T10:04:52.763Z - [WATCHER]: src/start/feature/start-demo was deleted
+[NX Daemon Server] - 2024-04-29T10:04:52.765Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:04:52.765Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:04:52.765Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:04:52.765Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:04:52.766Z - Time taken for 'changed-projects' 0.14812469482421875ms
+[NX Daemon Server] - 2024-04-29T10:04:52.974Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:04:52.975Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:04:52.975Z - [REQUEST]: src/start/feature/start-demo
+[NX Daemon Server] - 2024-04-29T10:04:53.056Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9832501411437988ms
+[NX Daemon Server] - 2024-04-29T10:05:31.939Z - [WATCHER]: src/root/start-demo/start-demo.component.ts was modified
+[NX Daemon Server] - 2024-04-29T10:05:31.940Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:05:31.940Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:05:31.940Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:05:31.940Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:05:31.940Z - Time taken for 'changed-projects' 0.08362483978271484ms
+[NX Daemon Server] - 2024-04-29T10:05:32.344Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:05:32.344Z - [REQUEST]: src/root/start-demo/start-demo.component.ts
+[NX Daemon Server] - 2024-04-29T10:05:32.344Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:05:32.379Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.8010406494140625ms
+[NX Daemon Server] - 2024-04-29T10:05:45.689Z - [WATCHER]: src/app was deleted
+[NX Daemon Server] - 2024-04-29T10:05:45.690Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:05:45.690Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:05:45.690Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:05:45.690Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:05:45.690Z - Time taken for 'changed-projects' 0.13124990463256836ms
+[NX Daemon Server] - 2024-04-29T10:05:46.493Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:05:46.493Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:05:46.493Z - [REQUEST]: src/app
+[NX Daemon Server] - 2024-04-29T10:05:46.542Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.3678750991821289ms
+[NX Daemon Server] - 2024-04-29T10:05:48.069Z - [WATCHER]: src/root/start-demo/start-demo.component.ts was modified
+[NX Daemon Server] - 2024-04-29T10:05:48.069Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:05:48.070Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:05:48.070Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T10:05:48.070Z - Time taken for 'changed-projects' 0.07995796203613281ms
+[NX Daemon Server] - 2024-04-29T10:05:48.071Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:05:49.683Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:05:49.683Z - [REQUEST]: src/root/start-demo/start-demo.component.ts
+[NX Daemon Server] - 2024-04-29T10:05:49.683Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:05:49.725Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 4.833667278289795ms
+[NX Daemon Server] - 2024-04-29T10:06:31.837Z - [WATCHER]: src/root/root-shell-routing.ts was modified
+[NX Daemon Server] - 2024-04-29T10:06:31.860Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:06:31.861Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:06:31.861Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T10:06:31.861Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:06:31.862Z - Time taken for 'changed-projects' 0.6827502250671387ms
+[NX Daemon Server] - 2024-04-29T10:06:35.074Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:06:35.074Z - [REQUEST]: src/root/root-shell-routing.ts
+[NX Daemon Server] - 2024-04-29T10:06:35.074Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:06:35.264Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.661832809448242ms
+[NX Daemon Server] - 2024-04-29T10:07:06.352Z - [WATCHER]: src/start/feature was deleted
+[NX Daemon Server] - 2024-04-29T10:07:06.354Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:06.354Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:06.354Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:07:06.354Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:07:06.355Z - Time taken for 'changed-projects' 0.11208391189575195ms
+[NX Daemon Server] - 2024-04-29T10:07:11.236Z - [WATCHER]: src/start was deleted
+[NX Daemon Server] - 2024-04-29T10:07:11.237Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:11.237Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:11.237Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:07:11.237Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:07:11.237Z - Time taken for 'changed-projects' 0.09212493896484375ms
+[NX Daemon Server] - 2024-04-29T10:07:12.766Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:07:12.767Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:07:12.767Z - [REQUEST]: src/start/feature,src/start
+[NX Daemon Server] - 2024-04-29T10:07:12.913Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.7963342666625977ms
+[NX Daemon Server] - 2024-04-29T10:07:17.000Z - [WATCHER]: src/root/feature was deleted
+[NX Daemon Server] - 2024-04-29T10:07:17.001Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:17.001Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:17.001Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:07:17.001Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:07:17.001Z - Time taken for 'changed-projects' 0.12195777893066406ms
+[NX Daemon Server] - 2024-04-29T10:07:22.340Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:07:22.342Z - [WATCHER]: src/root/start-demo was deleted
+[NX Daemon Server] - 2024-04-29T10:07:22.342Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:22.343Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:22.343Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-29T10:07:22.343Z - Time taken for 'changed-projects' 0.10095787048339844ms
+[NX Daemon Server] - 2024-04-29T10:07:23.419Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:07:23.419Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:07:23.419Z - [REQUEST]: src/root/feature,src/root/start-demo
+[NX Daemon Server] - 2024-04-29T10:07:23.602Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.707292079925537ms
+[NX Daemon Server] - 2024-04-29T10:07:28.153Z - [WATCHER]: src/root/root-shell-routing.ts was modified
+[NX Daemon Server] - 2024-04-29T10:07:28.156Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:28.156Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-04-29T10:07:28.156Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-04-29T10:07:28.156Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-29T10:07:28.156Z - Time taken for 'changed-projects' 0.1727919578552246ms
+[NX Daemon Server] - 2024-04-29T10:07:34.560Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:07:34.560Z - [REQUEST]: src/root/root-shell-routing.ts
+[NX Daemon Server] - 2024-04-29T10:07:34.560Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:07:34.622Z - Time taken for 'Load Nx Plugin: /Users/ritakisil/Desktop/work/lt-chat/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.6787910461425781ms
+[NX Daemon Server] - 2024-04-29T10:07:47.300Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T10:07:47.303Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T10:07:47.304Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:07:47.305Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T10:07:47.307Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T10:07:47.400Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:07:47.400Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:07:47.400Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:07:47.521Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T10:07:47.524Z - Time taken for 'total for creating and serializing project graph' 213.67666578292847ms
+[NX Daemon Server] - 2024-04-29T10:07:47.524Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:07:47.539Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T10:07:47.539Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 213. Response time: 19.
+[NX Daemon Server] - 2024-04-29T10:07:47.576Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T10:07:47.578Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T10:07:47.580Z - Time taken for 'total for creating and serializing project graph' 1.982375144958496ms
+[NX Daemon Server] - 2024-04-29T10:07:47.607Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T10:07:47.607Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 30.
+[NX Daemon Server] - 2024-04-29T10:07:47.621Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T10:07:48.592Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:11:21.875Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T10:11:21.877Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T10:11:21.878Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:11:21.878Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T10:11:21.880Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T10:11:21.904Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:11:21.905Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:11:21.905Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:11:21.955Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T10:11:21.957Z - Time taken for 'total for creating and serializing project graph' 74.88204097747803ms
+[NX Daemon Server] - 2024-04-29T10:11:21.957Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:11:21.958Z - [WATCHER]: .nx/cache/d/server-process.json was created or restored
+[NX Daemon Server] - 2024-04-29T10:11:21.959Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T10:11:21.959Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 75. Response time: 4.
+[NX Daemon Server] - 2024-04-29T10:11:21.963Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T10:11:21.964Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:11:21.964Z - [REQUEST]: .nx/cache/d/server-process.json
+[NX Daemon Server] - 2024-04-29T10:11:21.964Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:11:21.996Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T10:11:21.998Z - Time taken for 'total for creating and serializing project graph' 32.51887512207031ms
+[NX Daemon Server] - 2024-04-29T10:11:22.004Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T10:11:22.004Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 33. Response time: 8.
+[NX Daemon Server] - 2024-04-29T10:11:22.008Z - Established a connection. Number of open connections: 2
