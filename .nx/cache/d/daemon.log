@@ -2344,3 +2344,30 @@
 [NX Daemon Server] - 2024-04-29T10:11:22.004Z - Done responding to the client project-graph
 [NX Daemon Server] - 2024-04-29T10:11:22.004Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 33. Response time: 8.
 [NX Daemon Server] - 2024-04-29T10:11:22.008Z - Established a connection. Number of open connections: 2
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+[NX Daemon Server] - 2024-04-29T10:28:01.130Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T10:28:01.134Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T10:29:02.314Z - Started listening on: /var/folders/yd/fsdznxhj78d5b2by9m8svrfm0000gp/T/dc1a7d06835bf87a5c65/d.sock
+[NX Daemon Server] - 2024-04-29T10:29:02.321Z - [WATCHER]: Subscribed to changes within: /Users/ritakisil/Desktop/work/lt-chat (native)
+[NX Daemon Server] - 2024-04-29T10:29:02.323Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:29:02.324Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-29T10:29:02.326Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T10:29:02.372Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-29T10:29:02.372Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:29:02.372Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-29T10:29:02.478Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T10:29:02.483Z - Time taken for 'total for creating and serializing project graph' 152.25070810317993ms
+[NX Daemon Server] - 2024-04-29T10:29:02.483Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-29T10:29:02.486Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T10:29:02.486Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 152. Response time: 8.
+[NX Daemon Server] - 2024-04-29T10:29:02.493Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-29T10:29:02.495Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-29T10:29:02.498Z - Time taken for 'total for creating and serializing project graph' 2.1135001182556152ms
+[NX Daemon Server] - 2024-04-29T10:29:02.502Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-29T10:29:02.502Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 7.
+[NX Daemon Server] - 2024-04-29T10:29:02.511Z - Established a connection. Number of open connections: 2

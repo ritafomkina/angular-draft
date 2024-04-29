@@ -59,184 +59,12 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/environments/environment.prod.ts",
-        "hash": "10220522844224226756"
-      },
-      {
-        "file": "src/root/root-shell-routing.ts",
-        "hash": "11713763620850457926"
-      },
-      {
-        "file": "src/assets/fonts/KFOkCnqEu92Fr1Mu51xIIzI.woff2",
-        "hash": "14992446127129002797"
-      },
-      {
-        "file": "src/assets/config-dev.json",
-        "hash": "16411000965914367057"
-      },
-      {
-        "file": "src/assets/fonts/KFOkCnqEu92Fr1MmgVxIIzI.woff2",
-        "hash": "6728493763176678384"
-      },
-      {
-        "file": ".nx/cache/d/server-process.json",
-        "hash": "4057885221385214279"
-      },
-      {
-        "file": ".eslintrc.json",
-        "hash": "4227366504788429659"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "11875371692042464219"
-      },
-      {
-        "file": "src/styles/mixins.scss",
-        "hash": "3540697042085821366"
-      },
-      {
-        "file": "src/index.html",
-        "hash": "12496938786303466672"
-      },
-      {
-        "file": "src/styles/app-theme.scss",
-        "hash": "8635628420928451787"
-      },
-      {
-        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2",
-        "hash": "17192176066267427012"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2",
-        "hash": "11480183695370835447"
-      },
-      {
-        "file": "src/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
-        "hash": "7763650806422700836"
-      },
-      {
-        "file": "src/assets/fonts/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2",
-        "hash": "4771875875040784683"
-      },
-      {
         "file": ".editorconfig",
         "hash": "12918776490617936123"
       },
       {
-        "file": "src/assets/config-prod.json",
-        "hash": "16411000965914367057"
-      },
-      {
-        "file": "tsconfig.spec.json",
-        "hash": "10868943701191001598"
-      },
-      {
-        "file": "src/polyfills.ts",
-        "hash": "3990279379467342777"
-      },
-      {
-        "file": "src/styles/styles.scss",
-        "hash": "3757584129897943325"
-      },
-      {
-        "file": "src/assets/fonts/KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
-        "hash": "6503823245227748408"
-      },
-      {
-        "file": "src/assets/.gitkeep",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2",
-        "hash": "10007775920567377975"
-      },
-      {
-        "file": ".stylelintrc.json",
-        "hash": "18358521305061879124"
-      },
-      {
-        "file": "src/root/root.config.ts",
-        "hash": "17848035665019961059"
-      },
-      {
-        "file": "src/root/root.component.ts",
-        "hash": "4686744318874735497"
-      },
-      {
-        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
-        "hash": "11712892974129616984"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2",
-        "hash": "8574849386456366675"
-      },
-      {
-        "file": "src/main.ts",
-        "hash": "3525818555642792401"
-      },
-      {
-        "file": "package.json",
-        "hash": "2106003354115183016"
-      },
-      {
-        "file": "src/assets/fonts/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2",
-        "hash": "14829880165091391474"
-      },
-      {
-        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
-        "hash": "15303175179783910302"
-      },
-      {
-        "file": "angular.json",
-        "hash": "2322368564900355499"
-      },
-      {
-        "file": "README.md",
-        "hash": "15822917850348821753"
-      },
-      {
-        "file": "src/environments/environment.ts",
-        "hash": "1135292433917692033"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2",
-        "hash": "11510900118039405524"
-      },
-      {
-        "file": "src/assets/fonts/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2",
-        "hash": "3701997475377464848"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2",
-        "hash": "11677401014899151545"
-      },
-      {
-        "file": "tsconfig.app.json",
-        "hash": "1013093644958479880"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2",
-        "hash": "13710764040372438108"
-      },
-      {
-        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2",
-        "hash": "4317716101370900790"
-      },
-      {
-        "file": "src/assets/fonts/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2",
-        "hash": "3504761070094817485"
-      },
-      {
-        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
-        "hash": "15515038711748111190"
-      },
-      {
-        "file": "src/favicon.ico",
-        "hash": "3988961587069885523"
-      },
-      {
-        "file": "tsconfig.json",
-        "hash": "13969771533747480222"
+        "file": ".eslintrc.json",
+        "hash": "4227366504788429659"
       },
       {
         "file": ".gitignore",
@@ -247,36 +75,116 @@
         "hash": "10404374281230327431"
       },
       {
-        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
-        "hash": "16652882455696340977"
+        "file": ".stylelintrc.json",
+        "hash": "18358521305061879124"
+      },
+      {
+        "file": "README.md",
+        "hash": "15822917850348821753"
+      },
+      {
+        "file": "angular.json",
+        "hash": "2322368564900355499"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "11875371692042464219"
+      },
+      {
+        "file": "package.json",
+        "hash": "2106003354115183016"
+      },
+      {
+        "file": "src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/assets/config-dev.json",
+        "hash": "16411000965914367057"
+      },
+      {
+        "file": "src/assets/config-prod.json",
+        "hash": "16411000965914367057"
+      },
+      {
+        "file": "src/assets/fonts/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2",
+        "hash": "3701997475377464848"
+      },
+      {
+        "file": "src/assets/fonts/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2",
+        "hash": "14829880165091391474"
+      },
+      {
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2",
+        "hash": "11480183695370835447"
+      },
+      {
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2",
+        "hash": "11677401014899151545"
+      },
+      {
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2",
+        "hash": "4317716101370900790"
+      },
+      {
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2",
+        "hash": "10007775920567377975"
+      },
+      {
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2",
+        "hash": "13710764040372438108"
       },
       {
         "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2",
         "hash": "15199053152370763386"
       },
       {
-        "file": "src/assets/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2",
-        "hash": "7712315677876702246"
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2",
+        "hash": "8574849386456366675"
       },
       {
-        "file": "src/styles/material-theme.scss",
-        "hash": "1629384509452888507"
+        "file": "src/assets/fonts/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2",
+        "hash": "11510900118039405524"
       },
       {
-        "file": "src/root/start/feature/start-demo/start-demo.component.ts",
-        "hash": "9807311840692882701"
+        "file": "src/assets/fonts/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2",
+        "hash": "4771875875040784683"
       },
       {
-        "file": "src/styles/icons.scss",
-        "hash": "12877299541270701030"
+        "file": "src/assets/fonts/KFOkCnqEu92Fr1MmgVxIIzI.woff2",
+        "hash": "6728493763176678384"
+      },
+      {
+        "file": "src/assets/fonts/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2",
+        "hash": "3504761070094817485"
+      },
+      {
+        "file": "src/assets/fonts/KFOkCnqEu92Fr1Mu51xIIzI.woff2",
+        "hash": "14992446127129002797"
+      },
+      {
+        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+        "hash": "16652882455696340977"
+      },
+      {
+        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+        "hash": "15515038711748111190"
       },
       {
         "file": "src/assets/fonts/KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
         "hash": "13245797363336512531"
       },
       {
-        "file": "src/styles/fonts.scss",
-        "hash": "14590191910912878034"
+        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2",
+        "hash": "17192176066267427012"
+      },
+      {
+        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+        "hash": "15303175179783910302"
+      },
+      {
+        "file": "src/assets/fonts/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
+        "hash": "11712892974129616984"
       },
       {
         "file": "src/assets/fonts/KFOlCnqEu92Fr1MmYUtfBBc4.woff2",
@@ -285,6 +193,94 @@
       {
         "file": "src/assets/fonts/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2",
         "hash": "14086946419279718642"
+      },
+      {
+        "file": "src/assets/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2",
+        "hash": "7712315677876702246"
+      },
+      {
+        "file": "src/assets/fonts/KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+        "hash": "6503823245227748408"
+      },
+      {
+        "file": "src/assets/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2",
+        "hash": "7763650806422700836"
+      },
+      {
+        "file": "src/environments/environment.prod.ts",
+        "hash": "10220522844224226756"
+      },
+      {
+        "file": "src/environments/environment.ts",
+        "hash": "1135292433917692033"
+      },
+      {
+        "file": "src/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "12496938786303466672"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "3525818555642792401"
+      },
+      {
+        "file": "src/polyfills.ts",
+        "hash": "3990279379467342777"
+      },
+      {
+        "file": "src/root/root-shell-routing.ts",
+        "hash": "11713763620850457926"
+      },
+      {
+        "file": "src/root/root.component.ts",
+        "hash": "4686744318874735497"
+      },
+      {
+        "file": "src/root/root.config.ts",
+        "hash": "17848035665019961059"
+      },
+      {
+        "file": "src/root/start/feature/start-demo/start-demo.component.ts",
+        "hash": "9807311840692882701"
+      },
+      {
+        "file": "src/styles/app-theme.scss",
+        "hash": "8635628420928451787"
+      },
+      {
+        "file": "src/styles/fonts.scss",
+        "hash": "14590191910912878034"
+      },
+      {
+        "file": "src/styles/icons.scss",
+        "hash": "12877299541270701030"
+      },
+      {
+        "file": "src/styles/material-theme.scss",
+        "hash": "1629384509452888507"
+      },
+      {
+        "file": "src/styles/mixins.scss",
+        "hash": "3540697042085821366"
+      },
+      {
+        "file": "src/styles/styles.scss",
+        "hash": "3757584129897943325"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "1013093644958479880"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "13969771533747480222"
+      },
+      {
+        "file": "tsconfig.spec.json",
+        "hash": "10868943701191001598"
       }
     ],
     "projectFileMap": {}
